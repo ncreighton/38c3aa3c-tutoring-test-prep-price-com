@@ -1,2 +1,28 @@
-# 38c3aa3c-tutoring-test-prep-price-com
-What if have the information you need right in your browser took minutes instead of hours?  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Tutoring &amp; Test Prep Price Comparison And Deal Finder — fully configured and ready to use - One-click activati
+# Tutoring & Test Prep Price Comparison and Deal Finder Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMaEX4ePgaU5tu1ZicZM10)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMaEX4ePgaU5tu1ZicZM10)
+
